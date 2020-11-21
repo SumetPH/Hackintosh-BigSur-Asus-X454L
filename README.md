@@ -23,6 +23,6 @@ EFI : OpenCore 0.6.3
 ## What don't works?
 * Nvidia 920M (disabled)
 * VGA Port
-* Card reader
+* Card Reader
 * Wifi : Use Wireless USB Adapter
 * Bluetooth : Use Bluetotth USB Adapter
